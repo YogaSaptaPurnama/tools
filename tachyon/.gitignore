@@ -1,0 +1,16 @@
+#PyCharm
+*.iml
+.idea
+*.pyc
+*~
+#PyDev
+.project
+.pydevproject
+#output
+output/
+bin/
+include/
+lib/
+
+# cookies
+cookies*
